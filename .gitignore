@@ -1,0 +1,7 @@
+.venvs
+.expo
+src/__pycache__
+src/venv
+app/.expo
+app/.expo-shared
+app/node_modules
